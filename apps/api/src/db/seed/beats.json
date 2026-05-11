@@ -1,0 +1,152 @@
+[
+    {
+      "title": "Midnight Crates",
+      "producerName": "Loop Architect",
+      "audioUrl": "https://cdn.pixabay.com/audio/2022/10/30/audio_347b3f0b9c.mp3",
+      "artworkUrl": "https://picsum.photos/seed/midnight-crates/600/600",
+      "bpm": 90,
+      "durationSeconds": 145,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "dark", "soul-sample", "90s", "introspective"]
+    },
+    {
+      "title": "Velvet Smoke",
+      "producerName": "Dusty Tape",
+      "audioUrl": "https://cdn.pixabay.com/audio/2024/03/26/audio_3c0d4a8eed.mp3",
+      "artworkUrl": "https://picsum.photos/seed/velvet-smoke/600/600",
+      "bpm": 78,
+      "durationSeconds": 162,
+      "dropInSeconds": 0,
+      "tags": ["lo-fi", "late-night", "jazz", "mellow", "soul-sample"]
+    },
+    {
+      "title": "Eastside Sermon",
+      "producerName": "9th Floor",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/06/19/audio_db48ec2e1d.mp3",
+      "artworkUrl": "https://picsum.photos/seed/eastside-sermon/600/600",
+      "bpm": 88,
+      "durationSeconds": 138,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "dark", "horns", "east-coast", "aggressive"]
+    },
+    {
+      "title": "Linen Sundays",
+      "producerName": "Pastel Sound",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/08/21/audio_aef4a25b58.mp3",
+      "artworkUrl": "https://picsum.photos/seed/linen-sundays/600/600",
+      "bpm": 84,
+      "durationSeconds": 156,
+      "dropInSeconds": 0,
+      "tags": ["soulful", "warm", "live-instrumentation", "introspective", "south"]
+    },
+    {
+      "title": "Concrete Garden",
+      "producerName": "Loop Architect",
+      "audioUrl": "https://cdn.pixabay.com/audio/2022/03/15/audio_c8c8a73467.mp3",
+      "artworkUrl": "https://picsum.photos/seed/concrete-garden/600/600",
+      "bpm": 92,
+      "durationSeconds": 170,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "introspective", "piano", "rainy", "east-coast"]
+    },
+    {
+      "title": "Memphis Tape",
+      "producerName": "Ghost Era",
+      "audioUrl": "https://cdn.pixabay.com/audio/2024/05/14/audio_b1c5d8e9aa.mp3",
+      "artworkUrl": "https://picsum.photos/seed/memphis-tape/600/600",
+      "bpm": 72,
+      "durationSeconds": 144,
+      "dropInSeconds": 0,
+      "tags": ["memphis", "dark", "trap", "haunting", "underground"]
+    },
+    {
+      "title": "Brooklyn Steam",
+      "producerName": "9th Floor",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/02/14/audio_dc89c4c8e7.mp3",
+      "artworkUrl": "https://picsum.photos/seed/brooklyn-steam/600/600",
+      "bpm": 86,
+      "durationSeconds": 152,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "aggressive", "east-coast", "horns", "gritty"]
+    },
+    {
+      "title": "Honey Static",
+      "producerName": "Dusty Tape",
+      "audioUrl": "https://cdn.pixabay.com/audio/2022/11/22/audio_b5e1a48c5f.mp3",
+      "artworkUrl": "https://picsum.photos/seed/honey-static/600/600",
+      "bpm": 80,
+      "durationSeconds": 148,
+      "dropInSeconds": 0,
+      "tags": ["lo-fi", "warm", "mellow", "introspective", "rainy"]
+    },
+    {
+      "title": "Lone Tower",
+      "producerName": "Ghost Era",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/11/30/audio_1c0c7d3f88.mp3",
+      "artworkUrl": "https://picsum.photos/seed/lone-tower/600/600",
+      "bpm": 75,
+      "durationSeconds": 165,
+      "dropInSeconds": 0,
+      "tags": ["dark", "trap", "haunting", "introspective", "minimal"]
+    },
+    {
+      "title": "Sunday Driver",
+      "producerName": "Pastel Sound",
+      "audioUrl": "https://cdn.pixabay.com/audio/2024/01/22/audio_e9a3b27d4c.mp3",
+      "artworkUrl": "https://picsum.photos/seed/sunday-driver/600/600",
+      "bpm": 82,
+      "durationSeconds": 158,
+      "dropInSeconds": 0,
+      "tags": ["soulful", "warm", "south", "live-instrumentation", "smooth"]
+    },
+    {
+      "title": "Boiler Room 4AM",
+      "producerName": "Loop Architect",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/04/19/audio_c5e0e64897.mp3",
+      "artworkUrl": "https://picsum.photos/seed/boiler-room-4am/600/600",
+      "bpm": 95,
+      "durationSeconds": 142,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "aggressive", "horns", "east-coast", "late-night"]
+    },
+    {
+      "title": "Cassette Memory",
+      "producerName": "Dusty Tape",
+      "audioUrl": "https://cdn.pixabay.com/audio/2022/06/07/audio_ab21f9a5e2.mp3",
+      "artworkUrl": "https://picsum.photos/seed/cassette-memory/600/600",
+      "bpm": 76,
+      "durationSeconds": 168,
+      "dropInSeconds": 0,
+      "tags": ["lo-fi", "nostalgic", "warm", "mellow", "introspective"]
+    },
+    {
+      "title": "Southern Ash",
+      "producerName": "Pastel Sound",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/09/05/audio_d6f47a2e91.mp3",
+      "artworkUrl": "https://picsum.photos/seed/southern-ash/600/600",
+      "bpm": 70,
+      "durationSeconds": 174,
+      "dropInSeconds": 0,
+      "tags": ["south", "soulful", "live-instrumentation", "slow", "introspective"]
+    },
+    {
+      "title": "Iron Halo",
+      "producerName": "9th Floor",
+      "audioUrl": "https://cdn.pixabay.com/audio/2024/02/11/audio_f8a02e3b1c.mp3",
+      "artworkUrl": "https://picsum.photos/seed/iron-halo/600/600",
+      "bpm": 89,
+      "durationSeconds": 150,
+      "dropInSeconds": 0,
+      "tags": ["boom-bap", "dark", "aggressive", "east-coast", "gritty"]
+    },
+    {
+      "title": "Phantom Park",
+      "producerName": "Ghost Era",
+      "audioUrl": "https://cdn.pixabay.com/audio/2023/12/15/audio_a4c8b1f5d7.mp3",
+      "artworkUrl": "https://picsum.photos/seed/phantom-park/600/600",
+      "bpm": 74,
+      "durationSeconds": 160,
+      "dropInSeconds": 0,
+      "tags": ["dark", "haunting", "minimal", "trap", "underground"]
+    }
+  ]
