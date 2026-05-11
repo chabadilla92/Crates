@@ -1,0 +1,13 @@
+{
+  "name": "crates",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A purist's tool for beat discovery and writing.",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev --workspace=apps/api",
+    "dev:web": "npm run dev --workspace=apps/web"
+  }
+}
